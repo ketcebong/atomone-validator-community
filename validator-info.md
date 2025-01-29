@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Shazoe  | https://services.shazoe.xyz  | https://x.com/_Shazoe  | Indonesia  | https://github.com/ketcebong  | shazoenodes@gmail.com  | _shazoe  | 0324A34E31BC289B3B7665A0CE5269E33D846B804360D709A3E203B40268B295  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
